@@ -1,4 +1,4 @@
-## Hello
+## Hello 🐈‍⬛
 
 I'm tbunny, a computer science enthusiast with a passion for programming and all things development. I love creating and experimenting with new ideas, whether it's through coding, drawing, or 3D modeling.
 
